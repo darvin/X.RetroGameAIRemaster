@@ -11,8 +11,6 @@ Remember the days when games were simple and fun, without the constant pressure 
 ![11](https://user-images.githubusercontent.com/309302/233406331-e5a3705a-e737-4927-b3bc-6d078aad95d4.png)
 
 
-https://i.redd.it/eje4zhah2gj91.png
-
 https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_changing_with_controlnet_ebsynth/
 
 
@@ -26,3 +24,4 @@ https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_chang
 
 ![1](https://user-images.githubusercontent.com/309302/233405895-74d241dc-7d37-4356-9837-252d69e235a8.jpeg)
 
+![14](https://user-images.githubusercontent.com/309302/233406595-2d03a273-27a7-4761-8873-00a2fa7247a5.png)
