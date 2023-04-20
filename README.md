@@ -8,3 +8,22 @@ Remember the days when games were simple and fun, without the constant pressure 
 
 
 
+https://www.reddit.com/r/StableDiffusion/comments/12ro1th/remastered_a_screenshot_from_a_snes_game/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1
+
+https://www.reddit.com/r/StableDiffusion/comments/111d8s5/reimagining_classic_games_with_stable_diffusion/
+
+https://i.redd.it/eje4zhah2gj91.png
+
+https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_changing_with_controlnet_ebsynth/
+
+
+
+![2](https://user-images.githubusercontent.com/309302/233405774-40ec0ee6-7030-485f-bc40-e515a9ebb99f.jpeg)
+
+
+![5](https://user-images.githubusercontent.com/309302/233405824-7480e3d4-8c9b-4a02-a4a1-64cd120e9626.jpg)
+
+![4](https://user-images.githubusercontent.com/309302/233405854-e88d048d-beb7-450b-8231-4e68b2a1d8ba.jpg)
+
+![1](https://user-images.githubusercontent.com/309302/233405895-74d241dc-7d37-4356-9837-252d69e235a8.jpeg)
+
