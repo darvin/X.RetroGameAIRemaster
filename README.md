@@ -6,11 +6,10 @@ Introducing the Retro Game AI Remaster: a revolutionary tool that breathes new l
 Remember the days when games were simple and fun, without the constant pressure of in-app purchases and reward feedback loops? Back then, those 16x16, 8-color sprites were considered technological marvels. Wouldn't it be great to share the joy and nostalgia of those classic games with a new generation who may be more accustomed to photorealistic 4K gaming and the profit-driven tactics of modern game publishing companies? With the Retro Game AI Remaster, we can bridge the gap between past and present, and bring the magic of retro gaming to a whole new audience.
 
 
+![12](https://user-images.githubusercontent.com/309302/233406312-8516c24f-f004-472d-b745-a3f2e0955d04.jpeg)
 
+![11](https://user-images.githubusercontent.com/309302/233406331-e5a3705a-e737-4927-b3bc-6d078aad95d4.png)
 
-https://www.reddit.com/r/StableDiffusion/comments/12ro1th/remastered_a_screenshot_from_a_snes_game/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1
-
-https://www.reddit.com/r/StableDiffusion/comments/111d8s5/reimagining_classic_games_with_stable_diffusion/
 
 https://i.redd.it/eje4zhah2gj91.png
 
