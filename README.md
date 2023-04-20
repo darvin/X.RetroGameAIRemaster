@@ -10,6 +10,17 @@ Remember the days when games were simple and fun, without the constant pressure 
 ![image](https://user-images.githubusercontent.com/309302/233408198-76947315-c1c7-48cd-9bc0-c96a9bda30f7.png)
 
 
+
+## implentation
+
+1. Firstly, we will fork https://www.webrcade.com and add:
+  a) Screen segmentation (upon manual request) through Segment Anything to split the screen into sprites.
+  b) The use of Stable Diffusion for upscaling individual sprites on the server.
+  c) Buttons on each sprite to improve unsatisfactory outcomes.
+  d) Loading pre-generated 4k sprites and overlaying them on the game screen.
+At this point, retro games will be playable with the upscaled quality. However, we won't stop there and move to the next stage:
+2. We will develop a native application for Mac and Windows that will run optimized models trained on data gathered in stage 1
+
 ![12](https://user-images.githubusercontent.com/309302/233406312-8516c24f-f004-472d-b745-a3f2e0955d04.jpeg)
 
 ![11](https://user-images.githubusercontent.com/309302/233406331-e5a3705a-e737-4927-b3bc-6d078aad95d4.png)
