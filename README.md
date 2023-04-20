@@ -5,6 +5,10 @@ Introducing the Retro Game AI Remaster: a revolutionary tool that breathes new l
 
 Remember the days when games were simple and fun, without the constant pressure of in-app purchases and reward feedback loops? Back then, those 16x16, 8-color sprites were considered technological marvels. Wouldn't it be great to share the joy and nostalgia of those classic games with a new generation who may be more accustomed to photorealistic 4K gaming and the profit-driven tactics of modern game publishing companies? With the Retro Game AI Remaster, we can bridge the gap between past and present, and bring the magic of retro gaming to a whole new audience.
 
+![image](https://user-images.githubusercontent.com/309302/233408074-d976230b-1f7b-4f3c-810a-f2bef5bc0a95.png)
+
+![image](https://user-images.githubusercontent.com/309302/233408198-76947315-c1c7-48cd-9bc0-c96a9bda30f7.png)
+
 
 ![12](https://user-images.githubusercontent.com/309302/233406312-8516c24f-f004-472d-b745-a3f2e0955d04.jpeg)
 
