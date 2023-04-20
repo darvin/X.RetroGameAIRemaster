@@ -22,6 +22,5 @@ https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_chang
 
 ![4](https://user-images.githubusercontent.com/309302/233405854-e88d048d-beb7-450b-8231-4e68b2a1d8ba.jpg)
 
-![1](https://user-images.githubusercontent.com/309302/233405895-74d241dc-7d37-4356-9837-252d69e235a8.jpeg)
 
 ![14](https://user-images.githubusercontent.com/309302/233406595-2d03a273-27a7-4761-8873-00a2fa7247a5.png)
