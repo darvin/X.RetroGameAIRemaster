@@ -38,7 +38,7 @@ https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_chang
 ![4](https://user-images.githubusercontent.com/309302/233405854-e88d048d-beb7-450b-8231-4e68b2a1d8ba.jpg)
 
 
-### Segment Anything Screenshot Inference
+### [Segment Anything](https://github.com/facebookresearch/segment-anything) Screenshot Inference
 
 <img width="898" alt="Screenshot 2023-05-02 at 1 35 12 AM" src="https://user-images.githubusercontent.com/309302/235544236-2b66e479-700b-4027-9d89-e7f5de45cec1.png">
 
