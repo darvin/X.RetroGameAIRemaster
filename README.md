@@ -38,3 +38,27 @@ https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_chang
 ![4](https://user-images.githubusercontent.com/309302/233405854-e88d048d-beb7-450b-8231-4e68b2a1d8ba.jpg)
 
 
+### Segment Anything Screenshot Inference
+
+<img width="898" alt="Screenshot 2023-05-02 at 1 35 12 AM" src="https://user-images.githubusercontent.com/309302/235544236-2b66e479-700b-4027-9d89-e7f5de45cec1.png">
+
+
+<img width="809" alt="Screenshot 2023-05-02 at 1 41 34 AM" src="https://user-images.githubusercontent.com/309302/235544246-81e3b93d-0fa3-4c83-8305-7df92f9c55c5.png">
+
+
+<img width="795" alt="Screenshot 2023-05-02 at 1 36 24 AM" src="https://user-images.githubusercontent.com/309302/235544275-52281cfa-585b-44f8-9c66-0e3b359a60cd.png">
+
+
+<img width="648" alt="Screenshot 2023-05-02 at 1 40 18 AM" src="https://user-images.githubusercontent.com/309302/235544287-3a1dfea6-50fa-4cdf-af2f-a0a89d6697a4.png">
+
+<img width="792" alt="Screenshot 2023-05-02 at 1 35 57 AM" src="https://user-images.githubusercontent.com/309302/235544302-77153715-28cd-4fa6-9dd7-f4e6f51533de.png">
+
+<img width="669" alt="Screenshot 2023-05-02 at 1 41 01 AM" src="https://user-images.githubusercontent.com/309302/235544323-31dd660b-a487-43d9-8551-5bba847366ef.png">
+
+
+
+
+
+
+
+
