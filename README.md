@@ -11,6 +11,10 @@ Remember the days when games were simple and fun, without the constant pressure 
 
 
 
+<img width="365" alt="Screenshot 2023-05-02 at 1 57 04 AM" src="https://user-images.githubusercontent.com/309302/235545711-934dee7c-21f9-4dfc-b3d5-76dcc6c167a0.png">
+
+
+
 ## implentation
 
 1. Firstly, we will fork https://www.webrcade.com and add:
@@ -25,15 +29,25 @@ At this point, retro games will be playable with the upscaled quality. However, 
 
 ![11](https://user-images.githubusercontent.com/309302/233406331-e5a3705a-e737-4927-b3bc-6d078aad95d4.png)
 
-<img width="365" alt="Screenshot 2023-05-02 at 1 57 04 AM" src="https://user-images.githubusercontent.com/309302/235545711-934dee7c-21f9-4dfc-b3d5-76dcc6c167a0.png">
+<img width="402" alt="Screenshot 2023-05-02 at 1 56 37 AM" src="https://user-images.githubusercontent.com/309302/235545843-0b3676e3-f427-445e-a205-fa4f32be2ac4.png">
 
 
 
 https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_changing_with_controlnet_ebsynth/
 
 
+<img width="762" alt="Screenshot 2023-05-02 at 1 55 59 AM" src="https://user-images.githubusercontent.com/309302/235545867-0d5dee33-9000-4fce-b25a-18afb07a348d.png">
+
 
 ![2](https://user-images.githubusercontent.com/309302/233405774-40ec0ee6-7030-485f-bc40-e515a9ebb99f.jpeg)
+
+
+
+
+
+<img width="421" alt="Screenshot 2023-05-02 at 1 55 29 AM" src="https://user-images.githubusercontent.com/309302/235545913-f33d9270-de8b-4636-8ad8-8f2bbd5822a2.png">
+
+
 
 
 ![5](https://user-images.githubusercontent.com/309302/233405824-7480e3d4-8c9b-4a02-a4a1-64cd120e9626.jpg)
