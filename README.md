@@ -25,6 +25,9 @@ At this point, retro games will be playable with the upscaled quality. However, 
 
 ![11](https://user-images.githubusercontent.com/309302/233406331-e5a3705a-e737-4927-b3bc-6d078aad95d4.png)
 
+<img width="365" alt="Screenshot 2023-05-02 at 1 57 04 AM" src="https://user-images.githubusercontent.com/309302/235545711-934dee7c-21f9-4dfc-b3d5-76dcc6c167a0.png">
+
+
 
 https://www.reddit.com/r/StableDiffusion/comments/11byv0o/the_game_doom_is_changing_with_controlnet_ebsynth/
 
